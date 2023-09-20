@@ -75,4 +75,14 @@ footer .a{
     height: 150px;
     opacity: 1;
   }
-  
+
+  .contact{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }  
+
+
+
+  .cont1{text-align: center;
+  }
